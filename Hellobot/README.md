@@ -1,4 +1,3 @@
-# Bots
-Bots for messengers
+# Hellobot  
 
 В файле hellobot.py в строке greet_bot = BotHandler("id_bot") укажите свой идентификатор Telegram.
