@@ -1,6 +1,6 @@
 <?php 
 
-$auth_token = "49fe7d423d67d422-31dda79e9d6248e7-300c2231ba176c71";
+$auth_token = "AUTH_TOKEN";
 $send_name = "HelloBot";
 $is_log = true;
 
