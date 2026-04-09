@@ -1,6 +1,6 @@
 <?php
 	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$webhook = 'https://zaharberkutweather.herokuapp.com';
 	
 	$jsonData = 
 	'{
